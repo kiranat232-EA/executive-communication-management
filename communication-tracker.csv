@@ -1,0 +1,9 @@
+Communication ID,Stakeholder Type,Communication Type,Priority,Owner,Received Date,Status,Response SLA
+COM-001,Leadership,Executive briefing request,High,Kiran,2026-10-01,Closed,Same day
+COM-002,Internal,Department update,Medium,Operations,2026-10-02,Closed,1 day
+COM-003,External,Partner follow-up,High,Kiran,2026-10-03,Closed,Same day
+COM-004,Leadership,Approval request,Critical,Director,2026-10-04,Pending,2 days
+COM-005,Internal,Action reminder,Medium,Operations,2026-10-05,Closed,Same day
+COM-006,External,Meeting confirmation,High,Kiran,2026-10-06,Closed,Same day
+COM-007,Leadership,Decision follow-up,Critical,Director,2026-10-06,In Progress,1 day
+COM-008,Internal,Status communication,Low,Operations,2026-10-07,Closed,1 day
